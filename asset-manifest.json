@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://devanshumvyas7.github.io/csb-304qup/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://devanshumvyas7.github.io/csb-304qup/static/js/main.ee59d9eb.chunk.js",
+    "main.js.map": "https://devanshumvyas7.github.io/csb-304qup/static/js/main.ee59d9eb.chunk.js.map",
+    "runtime-main.js": "https://devanshumvyas7.github.io/csb-304qup/static/js/runtime-main.2b3490eb.js",
+    "runtime-main.js.map": "https://devanshumvyas7.github.io/csb-304qup/static/js/runtime-main.2b3490eb.js.map",
+    "static/js/2.c1d4d533.chunk.js": "https://devanshumvyas7.github.io/csb-304qup/static/js/2.c1d4d533.chunk.js",
+    "static/js/2.c1d4d533.chunk.js.map": "https://devanshumvyas7.github.io/csb-304qup/static/js/2.c1d4d533.chunk.js.map",
+    "index.html": "https://devanshumvyas7.github.io/csb-304qup/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://devanshumvyas7.github.io/csb-304qup/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.c1d4d533.chunk.js.LICENSE.txt": "https://devanshumvyas7.github.io/csb-304qup/static/js/2.c1d4d533.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2b3490eb.js",
+    "static/js/2.c1d4d533.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.ee59d9eb.chunk.js"
+  ]
+}
